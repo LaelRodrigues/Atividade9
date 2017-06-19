@@ -1,0 +1,11 @@
+# Ignora os diretorios build e lib
+build lib/*
+
+# Ignora todos os binarios/executaveis
+bin/*
+
+# Ignora arquivos especificos do Mac
+.DS_Store
+
+# Ignora o diretorio de documentacao
+doc/*
