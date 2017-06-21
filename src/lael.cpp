@@ -4,4 +4,6 @@
 #include "selectionsort.h"
 #include "quicksort.h"
 #include "mergesort.h"
+#include "bubblesort.h"
+#include "lista.h"
 #include "pilha.h"
