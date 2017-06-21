@@ -17,7 +17,7 @@ namespace edb1 {
 	 *		  atraves do algoritmo quicksort  
  	 * @param vetor Sequencia de elementos a serem ordenados
  	 * @param inicio Posicao inicial do vetor
- 	 * @param fim Posicao final do vetor
+ 	 * @param fim Posicao do ultimo elemento do vetor
  	 */	
 	template <typename T>
 	void quickSort(T *vetor, int inicio, int fim){

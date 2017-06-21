@@ -12,6 +12,12 @@
 
 namespace edb1 {
 
+    /**
+     * @brief Funcao que ordena os elementos de um vetor
+     *        atraves do algoritmo insertionsort
+     * @param vetor Sequencia de elementos a serem ordenados
+     * @param tam Tamanho do vetor
+     */ 
 	template<typename T>
 	void insertionSort(T *vetor, int tam) {
 		

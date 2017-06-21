@@ -1,1 +1,7 @@
 #include "buscaseq.h"
+#include "buscabin.h"
+#include "insertionsort.h"
+#include "selectionsort.h"
+#include "quicksort.h"
+#include "mergesort.h"
+#include "pilha.h"
